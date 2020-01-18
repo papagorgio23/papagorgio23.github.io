@@ -196,6 +196,29 @@ $(window).scroll(function() {
 });
 {% endhighlight %}
 
+A Python Example:
+
+{% highlight js %}
+## Python Script
+
+# Remove players that are out or questionable
+current = current[current.status == "None"]
+
+# Create function to extract average points
+def get_float(l, key):
+    """ Returns first float value from a list of dictionaries based on key. Defaults to 0.0 """
+    for d in l:
+        try:
+            return float(d.get(key))
+        except:
+            pass
+    return 0.0
+asdf
+# use function on dataset
+current["points"] = [get_float(x, "value") for x in current.draftStatAttributes]
+{% endhighlight %}
+
+
 [1]: http://daringfireball.net/projects/markdown/
 [2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
 [3]: http://www.markitdown.net/
