@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hello World! I am Jason Lee, the founder of A.I. Sports, a company carefully crafted to exploit inefficiencies in the sports betting markets. I have years of experience analyzing data in the sports, education, tech, and financial industries. I would like to share some simple tutorials on how to apply data science and advanced analytics in the real world.</p>
+<p>Hello World! I am Jason Lee, the founder and Chief Data Scientist of A.I. Sports, a company carefully crafted to exploit inefficiencies in the sports betting markets. I have years of experience analyzing data in the sports, education, tech, and financial industries. I would like to share some simple tutorials on how to apply data science and advanced analytics in the real world.</p>
 
 
 <h2>Skills</h2>
