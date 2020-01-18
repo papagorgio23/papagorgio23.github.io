@@ -7,7 +7,7 @@
     |
     <b><a href="README.md#how-to?">How To</a></b>
     |
-    <b><a href="README.md#a.-i.-sports">A.I. Sports</a></b>
+    <b><a href="README.md#ai-sports">A.I. Sports</a></b>
     |
     <b><a href="README.md#license">License</a></b>
 </p>
