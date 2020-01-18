@@ -1,6 +1,6 @@
 # main text of home
 name: Jason Lee
-bio: Founder - Chief Data Scientist, A.I. Sports  ---  Data Scientist - Data & Strategy, Freedom Financial Network
+bio: Founder - Chief Data Scientist, A.I. Sports  &  Data Scientist - Data & Strategy, Freedom Financial Network
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -35,13 +35,13 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: https://twitter.com/theFirmAISports
+twitter: theFirmAISports
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/jasonmiles23/
+linkedin: jasonmiles23
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/papagorgio23
+github: papagorgio23
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -55,10 +55,10 @@ email: jason@AISportsFirm.com
 authors:
     jasonlee:
         name: Jason Lee
-        bio: A Man who travels the world eating noodles
+        bio: Data Scientist
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: theFirmAISports
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
